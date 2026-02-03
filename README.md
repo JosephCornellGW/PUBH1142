@@ -1,1 +1,1 @@
-Hello, I am a George Washington University Health Data Science Student.
+I am a George Washington University Health Data Science Student.

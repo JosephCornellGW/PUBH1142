@@ -1,0 +1,17 @@
+transaction_id,date,vendor,district,amount,approved_by
+1013,2024-11-26,FedEx,Pacific,87500.0,Okafor
+1048,2025-03-21,Staples,Pacific,74200.0,Okafor
+1122,2024-09-08,Amazon,Southwest,14883.45,Nguyen
+1385,2025-03-31,Ford Fleet,Midwest,11425.76,Brooks
+1373,2024-10-30,FedEx,Southwest,10543.86,Brooks
+1274,2024-04-22,FedEx,Pacific,10278.99,Brooks
+1101,2025-03-21,OfficeMax,Southwest,9999.99,Harris
+1100,2024-07-20,Staples,Southeast,9999.99,Patel
+1201,2024-08-18,Staples,Northeast,9999.99,Patel
+1296,2025-02-19,Ford Fleet,Southeast,9781.31,Okafor
+1322,2024-09-15,OfficeMax,Northeast,9696.53,Okafor
+1249,2024-06-13,Dell,Midwest,9478.77,Harris
+1242,2024-09-15,OfficeMax,Northeast,8810.27,Nguyen
+1006,2024-03-12,Staples,Southeast,8788.13,Brooks
+1082,2024-07-24,OfficeMax,Northeast,8629.5,Nguyen
+1376,2025-02-07,FedEx,Northeast,8230.6,Harris
